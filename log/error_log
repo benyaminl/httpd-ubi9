@@ -1,0 +1,42 @@
+[Wed Nov 02 10:42:29.381499 2022] [mime:error] [pid 1:tid 1] (2)No such file or directory: AH01597: could not open mime types config file /etc/httpd/conf/mime.types.
+AH00016: Configuration Failed
+[Wed Nov 02 10:42:49.419632 2022] [mime:error] [pid 1:tid 1] (2)No such file or directory: AH01597: could not open mime types config file /etc/httpd/conf/mime.types.
+AH00016: Configuration Failed
+[Wed Nov 02 10:43:28.052105 2022] [mime:error] [pid 1:tid 1] (2)No such file or directory: AH01597: could not open mime types config file /etc/httpd/conf/mime.types.
+AH00016: Configuration Failed
+[Wed Nov 02 10:44:40.228673 2022] [mime:error] [pid 1:tid 1] (2)No such file or directory: AH01597: could not open mime types config file /etc/httpd/conf/mime.types.
+AH00016: Configuration Failed
+[Wed Nov 02 10:44:49.006417 2022] [mime:error] [pid 1:tid 1] (2)No such file or directory: AH01597: could not open mime types config file /etc/httpd/conf/mime.types.
+AH00016: Configuration Failed
+[Wed Nov 02 10:58:06.954899 2022] [mime:error] [pid 11:tid 11] (2)No such file or directory: AH01597: could not open mime types config file /etc/httpd/conf/mime.types.
+AH00016: Configuration Failed
+[Wed Nov 02 10:58:10.339698 2022] [mime:error] [pid 12:tid 12] (2)No such file or directory: AH01597: could not open mime types config file /etc/httpd/conf/mime.types.
+AH00016: Configuration Failed
+[Wed Nov 02 10:58:47.182301 2022] [mime:error] [pid 13:tid 13] (2)No such file or directory: AH01597: could not open mime types config file /etc/httpd/conf/mime.types.
+AH00016: Configuration Failed
+[Wed Nov 02 10:58:59.902011 2022] [mime:error] [pid 16:tid 16] (2)No such file or directory: AH01597: could not open mime types config file /etc/httpd/conf/mime.types.
+AH00016: Configuration Failed
+[Wed Nov 02 10:59:01.295997 2022] [mime:error] [pid 17:tid 17] (2)No such file or directory: AH01597: could not open mime types config file /etc/httpd/conf/mime.types.
+AH00016: Configuration Failed
+[Wed Nov 02 10:59:02.949844 2022] [mime:error] [pid 18:tid 18] (2)No such file or directory: AH01597: could not open mime types config file /etc/httpd/conf/mime.types.
+AH00016: Configuration Failed
+[Wed Nov 02 10:59:03.593010 2022] [mime:error] [pid 19:tid 19] (2)No such file or directory: AH01597: could not open mime types config file /etc/httpd/conf/mime.types.
+AH00016: Configuration Failed
+[Wed Nov 02 10:59:04.136697 2022] [mime:error] [pid 20:tid 20] (2)No such file or directory: AH01597: could not open mime types config file /etc/httpd/conf/mime.types.
+AH00016: Configuration Failed
+[Wed Nov 02 10:59:04.634852 2022] [mime:error] [pid 21:tid 21] (2)No such file or directory: AH01597: could not open mime types config file /etc/httpd/conf/mime.types.
+AH00016: Configuration Failed
+[Wed Nov 02 10:59:05.137624 2022] [mime:error] [pid 22:tid 22] (2)No such file or directory: AH01597: could not open mime types config file /etc/httpd/conf/mime.types.
+AH00016: Configuration Failed
+[Wed Nov 02 10:59:05.704228 2022] [mime:error] [pid 23:tid 23] (2)No such file or directory: AH01597: could not open mime types config file /etc/httpd/conf/mime.types.
+AH00016: Configuration Failed
+[Wed Nov 02 10:59:46.135640 2022] [mime:error] [pid 25:tid 25] (2)No such file or directory: AH01597: could not open mime types config file /etc/httpd/conf/mime.types.
+AH00016: Configuration Failed
+[Wed Nov 02 10:59:49.724254 2022] [mime:error] [pid 26:tid 26] (2)No such file or directory: AH01597: could not open mime types config file /etc/httpd/conf/mime.types.
+AH00016: Configuration Failed
+[Wed Nov 02 11:00:35.505073 2022] [suexec:notice] [pid 11:tid 11] AH01232: suEXEC mechanism enabled (wrapper: /usr/sbin/suexec)
+AH00558: httpd: Could not reliably determine the server's fully qualified domain name, using 10.89.3.50. Set the 'ServerName' directive globally to suppress this message
+[Wed Nov 02 11:00:35.518051 2022] [lbmethod_heartbeat:notice] [pid 11:tid 11] AH02282: No slotmem from mod_heartmonitor
+[Wed Nov 02 11:00:35.523705 2022] [mpm_event:notice] [pid 11:tid 11] AH00489: Apache/2.4.51 (Red Hat Enterprise Linux) configured -- resuming normal operations
+[Wed Nov 02 11:00:35.523876 2022] [core:notice] [pid 11:tid 11] AH00094: Command line: 'httpd -D FOREGROUND'
+[Wed Nov 02 11:03:09.046640 2022] [mpm_event:notice] [pid 11:tid 11] AH00491: caught SIGTERM, shutting down

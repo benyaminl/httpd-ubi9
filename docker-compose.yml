@@ -1,0 +1,13 @@
+version: '3.7'
+
+services:
+  web:
+    build: .
+    ports:
+      - "8000:80"
+    volumes:
+      - ./www:/var/www/html:Z
+      - ./www/istts.ac.id:/var/www/istts.ac.id:Z
+        #- ./conf/httpd.conf:/etc/httpd/conf/httpd.conf:Z
+      - ./conf/sites-enabled:/etc/httpd/sites-enabled:Z
+      - ./log:/var/log/httpd:Z
